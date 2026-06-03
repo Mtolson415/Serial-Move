@@ -1,0 +1,217 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="o0p87FY7A-Ax_Mm1U8oY">
+    <mxGraphModel dx="2240" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g6k9_b2UUGafK48bsa10-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="1390" width="1390" x="-420" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-42" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;Job Start:&lt;/div&gt;Automated&lt;div&gt;fill from excel from Sheet&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-48" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;if not populated,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Fill Box Name Input from &quot;BOXNAME&quot; column&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-54" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;If YES&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Fill Serial number&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Input from SERIAL collumn&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" value="Firefox tab container&amp;nbsp;&lt;div&gt;with tampermonkey and pyconsole extensions&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="105" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Tab with box item fill&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-73" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+            </Array>
+            <mxPoint x="440" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="tab with excel spread sheet" vertex="1">
+          <mxGeometry height="80" width="80" x="380" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-16" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;" target="g6k9_b2UUGafK48bsa10-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="370" as="sourcePoint" />
+            <mxPoint x="290" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Check if serial input still has a serial number populated&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="1042.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-21" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-19" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="g6k9_b2UUGafK48bsa10-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="1050" as="sourcePoint" />
+            <mxPoint x="575" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;If number present cut/paste to excel and paste in sheet named &quot;Serials2Check&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="1042.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-57" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-59" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Check next line in SERIAL column Excel spreadsheet" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-63" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g6k9_b2UUGafK48bsa10-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1260" />
+              <mxPoint x="300" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="If&amp;nbsp; &#39;null&#39;/blankl" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-28" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-19" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="g6k9_b2UUGafK48bsa10-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="1050" as="sourcePoint" />
+            <mxPoint x="495" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-30" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-22" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1140" />
+            </Array>
+            <mxPoint x="605" y="1195" as="sourcePoint" />
+            <mxPoint x="300" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-49" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="g6k9_b2UUGafK48bsa10-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="790" />
+              <mxPoint x="300" y="790" />
+              <mxPoint x="300" y="860" />
+            </Array>
+            <mxPoint x="430" y="870" as="sourcePoint" />
+            <mxPoint x="310" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Call&amp;nbsp; BoxNameSend button ID" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-37" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-52" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-34" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" value="Check if in&lt;div&gt;SERIALNUM&lt;/div&gt;&lt;div&gt;input field&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-36" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="If NO call SERIALNUM&lt;div&gt;input field ID&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-45" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="g6k9_b2UUGafK48bsa10-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-38" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;If Populated:&lt;/div&gt;Reload BoxTransfer Page" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-44" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-46" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g6k9_b2UUGafK48bsa10-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="670" />
+              <mxPoint x="300" y="670" />
+            </Array>
+            <mxPoint x="160" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-39" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Call BOXNAME&lt;div&gt;input ID&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-66" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-68" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g6k9_b2UUGafK48bsa10-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-40" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Check if BOXNAME present in same row" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-43" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-41" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Make sure Box transfer page is active page" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-51" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-36" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="910" />
+            </Array>
+            <mxPoint x="370" y="980" as="sourcePoint" />
+            <mxPoint x="300" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-55" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g6k9_b2UUGafK48bsa10-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1030" />
+              <mxPoint x="300" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-53" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Call SerialNumSend&lt;div&gt;Button&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-56" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="If Number Present" vertex="1">
+          <mxGeometry height="80" width="80" x="150" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-58" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" target="g6k9_b2UUGafK48bsa10-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="841" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-70" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g6k9_b2UUGafK48bsa10-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-64" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="If No cut paste to PROCESSED&amp;nbsp; sheet tab" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-65" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="If Num Present" vertex="1">
+          <mxGeometry height="80" width="80" x="150" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-67" edge="1" parent="1" source="g6k9_b2UUGafK48bsa10-65" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g6k9_b2UUGafK48bsa10-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1320" />
+              <mxPoint x="80" y="520" />
+              <mxPoint x="520" y="520" />
+            </Array>
+            <mxPoint x="360" y="1380" as="sourcePoint" />
+            <mxPoint x="90" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6k9_b2UUGafK48bsa10-69" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Job Finished" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="1390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
